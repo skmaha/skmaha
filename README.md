@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skmaha
 - 👀 I’m interested in ...IT development software and programing
-- 🌱 I’m currently learning ...Python and machine learning  
+- 🌱 I’m currently learning ..Selenium and JAVA
 - 💞️ I’m looking to collaborate on ...Python and cloud services
 - 📫 How to reach me ...
 
