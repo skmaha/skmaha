@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skmaha
+- 👋 Hi, I’m @Sunil Kumar
 - 👀 I’m interested in ...IT development software and programing
 - 🌱 I’m currently learning ..Selenium and JAVA
 - 💞️ I’m looking to collaborate on ...Python and cloud services
